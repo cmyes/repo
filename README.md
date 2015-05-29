@@ -23,6 +23,11 @@ vBulletin是一個強大，靈活並可完全根據自己的需要定制的論�
 <li>【<a href="/">第 5 天：相關條目</a>】</li>
 <li>【<a href="/">第 5 天：相關條目</a>】</li>
 </ul></li>
- 
+
+##與我聯繫
+<ul>
+<li>論壇頁: <a href="http://forum.cmyes.cc">ian-韋斯論壇 韋斯的技術交流中心</a></li>
+<li>本網頁: <a href="http://cmyes.cc/">The cmyes Web</a></li>
+</ul>
 
 
