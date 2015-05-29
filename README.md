@@ -1,5 +1,4 @@
 # 30 天精通 vBulletin 版本控管
-<img src="http://cmyes.cc/images/github/watch-wonders-2014-610x270.jpg" width="30%" height="30%">
 
 # 文章簡介
 
